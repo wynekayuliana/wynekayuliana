@@ -3,8 +3,8 @@
 </p>
 
 ### Hi there 👋
-* 🙋‍♂️ Introduce myself, I'm Eka Yuliana
-* 🤵‍♂️ I’m a full-stack web developer
+* 🙋‍♂️ I'm Eka Yuliana
+* 🤵‍♂️ I’m a full-stack web developer (not a PC repairman)
 * 🕑 Experienced as web developer since 2018
 * 🏠 Domiciled in Bali, Indonesia
 * ⚡ Fun fact: "programming teaches you how to think"
