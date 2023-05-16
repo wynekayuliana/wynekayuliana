@@ -2,14 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=135&section=header&text=Eka%20Yuliana&animation=fadeIn" />
 </p>
 
-### 👋 &nbsp;Hi there 
+### 👋 &nbsp;Hi there, welcome!
 * 🙋‍♂️ I'm Eka Yuliana
 * 🤵‍♂️ I’m a full-stack web developer (not a PC repairman)
 * 🕑 Experienced as web developer since 2018
 * 🏠 Domiciled in Bali, Indonesia
 * ⚡ Fun fact: "programming teaches you how to think"
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h3> 🛠️ &nbsp;Some Tools I Have Used and Learned</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" title="vscode" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" title="vscode" width="45" height="45"/> -->
@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" title="figma" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" title="figma" width="45" height="45" /> -->
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" title="netlify" />
+  <img src="https://img.shields.io/badge/Cpanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cpanel" title="cpanel" />
           
           
 </p>
