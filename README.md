@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=135&section=header&text=Eka%20Yuliana&animation=fadeIn" />
 </p>
 
-### Hi there 👋
+### 👋 &nbsp;Hi there 
 * 🙋‍♂️ I'm Eka Yuliana
 * 🤵‍♂️ I’m a full-stack web developer (not a PC repairman)
 * 🕑 Experienced as web developer since 2018
