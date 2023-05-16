@@ -72,6 +72,8 @@ Note:
   https://devicon.dev/
 
   https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+  https://github.com/alexandresanlim/Badges4-README.md-Profile
 --->
 
 <!---
