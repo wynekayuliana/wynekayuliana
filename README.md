@@ -4,9 +4,9 @@
 
 ### 👋 &nbsp;Hi there, welcome!
 * 🙋‍♂️ I'm Eka Yuliana
-* 🤵‍♂️ I’m a full-stack web developer (not a PC repairman)
+* 🤵‍♂️ A full-stack web developer (not a PC repairman)
+* 🏠 Based in Bali, Indonesia
 * 🕑 Experienced as web developer since 2018
-* 🏠 Domiciled in Bali, Indonesia
 * ⚡ Fun fact: "programming teaches you how to think"
 
 <br/>
