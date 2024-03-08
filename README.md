@@ -12,6 +12,7 @@
 <br/>
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+<!-- source => https://github.com/PiyushSuthar/github-readme-quotes -->
 
 <h3> 🛠️ &nbsp;Some Tools I Have Used and Learned</h3>
 <p align="center">
