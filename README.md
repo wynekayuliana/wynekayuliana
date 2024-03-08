@@ -7,9 +7,12 @@
 * 🤵‍♂️ A full-stack web developer (not a PC repairman)
 * 🏠 Based in Bali, Indonesia
 * 🕑 Experienced as web developer since 2018
-* ⚡ Fun fact: "programming teaches you how to think"
+<!-- * ⚡ Fun fact: "programming teaches you how to think" -->
 
 <br/>
+
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+
 <h3> 🛠️ &nbsp;Some Tools I Have Used and Learned</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" title="vscode" />
