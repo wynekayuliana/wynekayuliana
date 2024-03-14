@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=135&section=header&text=Eka%20Yuliana&animation=fadeIn" />
 </p>
 
-### 👋 &nbsp;Hi there, welcome!
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" /> &nbsp;Hi there, welcome!
 * 🙋‍♂️ I'm Eka Yuliana
 * 🤵‍♂️ A full-stack web developer (not a PC repairman)
 * 🏠 Based in Bali, Indonesia
