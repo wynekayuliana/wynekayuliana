@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=135&section=header&text=Eka%20Yuliana&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=135&section=header&text=Eka%20Yuliana&animation=fadeIn" alt="Eka Yuliana" />
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" /> &nbsp;Hi there, welcome!
@@ -11,8 +11,11 @@
 
 <br/>
 
-![Readme Quotes](https://github-readme-quotes.ekaypd.com/api?type=horizontal&theme=dracula)
+<!-- ![Readme Quotes](https://github-readme-quotes.ekaypd.com/api?type=horizontal&theme=dracula) -->
 <!-- source => https://github.com/PiyushSuthar/github-readme-quotes -->
+<p align="center">
+  <img src="https://github-readme-quotes.ekaypd.com/api?type=horizontal&theme=dracula" alt="Readme Quotes" />
+</p>
 
 <h3> 🛠️ &nbsp;Some Tools I Have Used and Learned</h3>
 <p align="center">
