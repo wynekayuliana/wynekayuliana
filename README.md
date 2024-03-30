@@ -14,7 +14,7 @@
 <!-- ![Readme Quotes](https://github-readme-quotes.ekaypd.com/api?type=horizontal&theme=dracula) -->
 <!-- source => https://github.com/PiyushSuthar/github-readme-quotes -->
 <p align="center">
-  <img src="https://github-readme-quotes.ekaypd.com/api?type=horizontal&theme=dracula" alt="Readme Quotes" />
+  <img src="https://github-readme-quotes.ekaypd.com/api?type=horizontal&theme=dracula" alt="Readme Quotes" title="Find out more at https://github-readme-quotes.ekaypd.com" />
 </p>
 
 <h3> 🛠️ &nbsp;Some Tools I Have Used and Learned</h3>
